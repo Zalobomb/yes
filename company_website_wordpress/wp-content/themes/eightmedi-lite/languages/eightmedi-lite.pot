@@ -1,0 +1,1195 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Eightmedi Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Wed Jul 27 2016 11:58:51 GMT+0545 (Nepal Standard Time)\n"
+"POT-Revision-Date: Wed Jul 27 2016 11:59:16 GMT+0545 (Nepal Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:21
+msgid "error"
+msgstr ""
+
+#: ../404.php:21
+msgid "404"
+msgstr ""
+
+#: ../404.php:22
+msgid "It looks like nothing was found at this location. Maybe try search?"
+msgstr ""
+
+#: ../comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:38 ../comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:41 ../comments.php:62
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:42 ../comments.php:63
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:75
+msgid "Comments are closed."
+msgstr ""
+
+#: ../footer.php:31
+msgid "Copyright"
+msgstr ""
+
+#: ../footer.php:31
+msgid "8Degree Themes"
+msgstr ""
+
+#: ../footer.php:33
+msgid "Theme: 8Medi Lite."
+msgstr ""
+
+#: ../functions.php:47
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:106
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:116
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../functions.php:126
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../functions.php:136
+msgid "Google Map Section"
+msgstr ""
+
+#: ../functions.php:138
+msgid "Add a text widget with iframe for google map"
+msgstr ""
+
+#: ../functions.php:146
+msgid "Footer Blocks"
+msgstr ""
+
+#: ../functions.php:148
+msgid "Add widgets for footer"
+msgstr ""
+
+#: ../header.php:23 ../template-logocenter.php:36 ../template-notopheader.php:36
+msgid "Skip to content"
+msgstr ""
+
+#: ../header.php:29
+msgid "Left CTA"
+msgstr ""
+
+#: ../header.php:33
+msgid "Right CTA"
+msgstr ""
+
+#: ../inc/eightmedi-custom-classes.php:15
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:19
+msgid "Default Setups"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:34
+msgid "General Setups"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:35
+msgid "Manage General Setups for the site"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:41
+msgid "Webpage Layout"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:52
+msgid "Choose the layout that you want"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:56 ../inc/eightmedi-sanitizer.php:25 ..
+#: /inc/eightmedi-sanitizer.php:74
+msgid "Full Width"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:57 ../inc/eightmedi-sanitizer.php:24 ..
+#: /inc/eightmedi-sanitizer.php:75
+msgid "Boxed"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:62
+msgid "Top Header Call-To"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:73
+msgid "Enable Top Header"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:74
+msgid "Selecting No will Hide Top Header"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:77 ../inc/eightmedi-customizer.php:121 ..
+#: /inc/eightmedi-customizer.php:174 ../inc/eightmedi-customizer.php:203 ..
+#: /inc/eightmedi-customizer.php:219 ../inc/eightmedi-customizer.php:235 ..
+#: /inc/eightmedi-customizer.php:267 ../inc/eightmedi-customizer.php:956 ..
+#: /inc/eightmedi-customizer.php:972 ../inc/eightmedi-sanitizer.php:12 ..
+#: /inc/eightmedi-sanitizer.php:62
+msgid "Yes"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:78 ../inc/eightmedi-customizer.php:122 ..
+#: /inc/eightmedi-customizer.php:175 ../inc/eightmedi-customizer.php:204 ..
+#: /inc/eightmedi-customizer.php:220 ../inc/eightmedi-customizer.php:236 ..
+#: /inc/eightmedi-customizer.php:268 ../inc/eightmedi-customizer.php:957 ..
+#: /inc/eightmedi-customizer.php:973 ../inc/eightmedi-sanitizer.php:13 ..
+#: /inc/eightmedi-sanitizer.php:63
+msgid "No"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:89
+msgid "Call To Content  - Left"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:90 ../inc/eightmedi-customizer.php:102
+msgid "Enter text or HTML for call to action"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:101
+msgid "Call To Content  - Right"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:107
+msgid "Header Search Setting"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:117
+msgid "Hide Search From Header"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:118
+msgid "Selecting Yes will Hide Search Bar From Header"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:127
+msgid "Header Logo Alignment Setting"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:138
+msgid "Logo Alignment"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:141
+msgid "Default (Left Align)"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:142
+msgid "Center Align"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:151
+msgid "Homepage Setups"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:159
+msgid "Slider Setups"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:160
+msgid "Manage Slides for the site"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:171
+msgid "Display Slider"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:187
+msgid "Select a category to show in slider"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:200
+msgid "Display Pager"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:216
+msgid "Display Controls"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:232
+msgid "Enable Auto Transition"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:248
+msgid "Transition Type"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:251
+msgid "Slide"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:252
+msgid "Fade"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:264
+msgid "Display Text in Slider"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:281
+msgid "Transition Speed"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:293
+msgid "Slide Pause Time"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:301
+msgid "Featured Section"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:314
+msgid "Enable Disable Featured Section"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:318 ../inc/eightmedi-customizer.php:369 ..
+#: /inc/eightmedi-customizer.php:452 ../inc/eightmedi-customizer.php:512 ..
+#: /inc/eightmedi-customizer.php:570 ../inc/eightmedi-customizer.php:611 ..
+#: /inc/eightmedi-customizer.php:705 ../inc/eightmedi-customizer.php:763 ..
+#: /inc/eightmedi-customizer.php:803 ../inc/eightmedi-customizer.php:857 ..
+#: /inc/eightmedi-sanitizer.php:50
+msgid "Enable"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:319 ../inc/eightmedi-customizer.php:370 ..
+#: /inc/eightmedi-customizer.php:453 ../inc/eightmedi-customizer.php:513 ..
+#: /inc/eightmedi-customizer.php:571 ../inc/eightmedi-customizer.php:612 ..
+#: /inc/eightmedi-customizer.php:706 ../inc/eightmedi-customizer.php:764 ..
+#: /inc/eightmedi-customizer.php:804 ../inc/eightmedi-customizer.php:858 ..
+#: /inc/eightmedi-sanitizer.php:51
+msgid "Disable"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:331
+msgid "Latest featured Title"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:344
+msgid "Select a Category to show in featured Section"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:352
+msgid "Book an Appointment Section"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:365
+msgid "Enable Disable Book an Appointment"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:384
+msgid "Book an Appointment Title"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:397
+msgid "Book an Appointment Description"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:412
+msgid "Book an Appointment Custom Form Id"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:413
+msgid "Enter shortcode for Custom Form Id"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:427
+msgid "Background Image for Book an Appointment"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:435
+msgid "About Section"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:448
+msgid "Enable Disable About Us Section"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:472
+msgid "Select a Post to show in About Us Section"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:487
+msgid "About View More Text"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:495
+msgid "Team Member Section"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:508
+msgid "Enable Disable Team Member"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:526
+msgid "Team Memeber Title"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:539
+msgid "Team Memeber Description"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:566 ../inc/eightmedi-customizer.php:759
+msgid "Display Button for Category Page"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:577 ../inc/eightmedi-customizer.php:770
+msgid "View More"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:584 ../inc/eightmedi-customizer.php:777
+msgid "Button Text"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:594
+msgid "Call To Action Section"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:607
+msgid "Enable Disable Call To Action"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:626
+msgid "Call To Action Title"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:640
+msgid "Call To Description"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:647
+msgid "Join"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:654
+msgid "Call To Action Read More Text"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:668 ../inc/eightmedi-customizer.php:899
+msgid "Call To Action Link"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:680
+msgid "Image for Call to Action"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:688
+msgid "Latest News Section"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:701
+msgid "Enable Disable News Section"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:713 ../template-home.php:218
+msgid "Our Journal"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:719
+msgid "News Section"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:732
+msgid "News Section Description"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:745
+msgid "Select a Category to show in latest news Section"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:786
+msgid "Our Sponsers Section"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:799
+msgid "Enable Disable Sponsers Section"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:811 ../template-home.php:276
+msgid "Our Sponsors"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:817
+msgid "Sponsors Section"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:830
+msgid "Select a Category to show in  sponsers Section"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:840
+msgid "Small Call To Action Section"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:853
+msgid "Enable Disable Small Call To Action"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:865 ../template-home.php:312
+msgid "Make Your Appointment Today"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:871
+msgid "Small Call To Action Title"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:878 ../template-home.php:330
+msgid "Book Now"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:885
+msgid "Small Call To Action Read More Text"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:911
+msgid "Image for Small Call to Action"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:918
+msgid "Google Map"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:929
+msgid "Contact Address"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:931
+msgid "Enter the Contact Address Detail, add google map from widgets section"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:941
+msgid "Social Links Section"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:953
+msgid "Display Social Icons in Header"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:969
+msgid "Display Social Icons in Footer"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:985
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:997
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:1009
+msgid "Google Plus"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:1021
+msgid "YouTube"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:1033
+msgid "Pinterest"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:1045
+msgid "Linkedin"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:1057
+msgid "Vimeo"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:1069
+msgid "Instagram"
+msgstr ""
+
+#: ../inc/eightmedi-customizer.php:1081
+msgid "Skype"
+msgstr ""
+
+#: ../inc/eightmedi-functions.php:195
+msgid "skype:"
+msgstr ""
+
+#: ../inc/eightmedi-functions.php:354 ../inc/eightmedi-tgm.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/eightmedi-functions.php:355 ../inc/eightmedi-tgm.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../inc/eightmedi-functions.php:356 ../inc/eightmedi-tgm.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/eightmedi-functions.php:357 ../inc/eightmedi-tgm.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../inc/eightmedi-functions.php:358
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/eightmedi-functions.php:359
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/eightmedi-functions.php:360
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/eightmedi-functions.php:361
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/eightmedi-functions.php:362
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/eightmedi-functions.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/eightmedi-functions.php:364
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/eightmedi-functions.php:365
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/eightmedi-functions.php:366 ../inc/eightmedi-tgm.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/eightmedi-functions.php:367 ../inc/eightmedi-tgm.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/eightmedi-functions.php:368 ../inc/eightmedi-tgm.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/eightmedi-functions.php:369 ../inc/eightmedi-tgm.php:387 ..
+#: /inc/eightmedi-tgm.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/eightmedi-functions.php:370
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#. $id
+#. $id
+#: ../inc/eightmedi-metabox.php:16 ../inc/eightmedi-metabox.php:24
+msgid "Sidebar Layout"
+msgstr ""
+
+#: ../inc/eightmedi-metabox.php:36
+msgid "Left sidebar"
+msgstr ""
+
+#: ../inc/eightmedi-metabox.php:41
+msgid "Right sidebar<br/>(default)"
+msgstr ""
+
+#: ../inc/eightmedi-metabox.php:46
+msgid "Both Sidebar"
+msgstr ""
+
+#: ../inc/eightmedi-metabox.php:52
+msgid "No sidebar"
+msgstr ""
+
+#: ../inc/eightmedi-metabox.php:66
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../inc/eightmedi-tgm.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/eightmedi-tgm.php:386 ../inc/eightmedi-tgm.php:827 ../inc/eightmedi-tgm.
+#: php:2533 ../inc/eightmedi-tgm.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:388 ../inc/eightmedi-tgm.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: ../inc/eightmedi-tgm.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../inc/eightmedi-tgm.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: ../inc/eightmedi-tgm.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:523
+msgid "Update Required"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:934 ../inc/eightmedi-tgm.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:1121 ../inc/eightmedi-tgm.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: ../inc/eightmedi-tgm.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2273
+msgid "Required"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2295
+msgid "External Source"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2321
+msgid "Active"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: ../inc/eightmedi-tgm.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: ../inc/eightmedi-tgm.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: ../inc/eightmedi-tgm.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: ../inc/eightmedi-tgm.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: ../inc/eightmedi-tgm.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/eightmedi-tgm.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2548
+msgid "Source"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2549
+msgid "Type"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2553
+msgid "Version"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../inc/eightmedi-tgm.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../inc/eightmedi-tgm.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../inc/eightmedi-tgm.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2717
+msgid "Install"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2723
+msgid "Update"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2726
+msgid "Activate"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../inc/eightmedi-tgm.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: ../inc/eightmedi-tgm.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../inc/eightmedi-tgm.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../inc/eightmedi-tgm.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:3509 ../inc/eightmedi-tgm.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:3509 ../inc/eightmedi-tgm.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../inc/eightmedi-tgm.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../inc/eightmedi-tgm.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/eightmedi-tgm.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../inc/eightmedi-tgm.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: ../inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: ../inc/template-tags.php:50 ../inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: ../inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../inc/template-tags.php:64
+msgid "Leave a comment"
+msgstr ""
+
+#: ../inc/template-tags.php:64
+msgid "1 Comment"
+msgstr ""
+
+#: ../inc/template-tags.php:64
+#, php-format
+msgid "% Comments"
+msgstr ""
+
+#: ../inc/template-tags.php:68 ../template-parts/content-page.php:26
+msgid "Edit"
+msgstr ""
+
+#: ../search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform-header.php:9
+msgid "Search"
+msgstr ""
+
+#. Name of the template
+msgid "Boxed HomePage"
+msgstr ""
+
+#: ../template-boxedhome.php:124 ../template-home.php:113 ../template-logocenter.
+#: php:211 ../template-notopheader.php:210
+msgid "Placehold"
+msgstr ""
+
+#: ../template-boxedhome.php:261 ../template-home.php:252 ../template-logocenter.
+#: php:348 ../template-notopheader.php:347
+msgid "Read More"
+msgstr ""
+
+#: ../template-boxedhome.php:362 ../template-home.php:354 ../template-logocenter.
+#: php:449 ../template-notopheader.php:448
+msgid "Contact Us"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page"
+msgstr ""
+
+#: ../template-home.php:73
+msgid "Book An Appointment"
+msgstr ""
+
+#: ../template-home.php:120
+msgid "Details"
+msgstr ""
+
+#: ../template-home.php:141
+msgid "Our Doctors"
+msgstr ""
+
+#. Name of the template
+msgid "HomePage with Logo Center"
+msgstr ""
+
+#. Name of the template
+msgid "HomePage without Top Header"
+msgstr ""
+
+#: ../template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: ../template-parts/content-none.php:20
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../template-parts/content-page.php:19 ../template-parts/content-single.php:33 .
+#: ./template-parts/content.php:39
+msgid "Pages:"
+msgstr ""
+
+#. Name of the theme
+msgid "Eightmedi Lite"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://8degreethemes.com/wordpress-themes/eightmedi-lite/"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"EightMedi Lite is a clean and beautiful WordPress-Medicine theme perfect for "
+"personal or business website related to medicines and hospitals."
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://8degreethemes.com/"
+msgstr ""

@@ -1,0 +1,125 @@
+.customize-control-radio input {
+    margin-left: 0;
+}
+/*Page Metabox*/
+#faceblog_pages_meta_settings .inside {
+    padding: 0;
+    margin-top: 0;
+}
+
+ul.mt-page-meta-tabs {
+    width: 20%;
+    float: left;
+    background: #f5f5f5 none repeat scroll 0 0;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.mt-page-meta-tabs li {
+    margin: 0;
+    padding: 10px;
+    border-bottom: 1px solid #dcdcdc;
+    cursor: pointer;
+}
+
+.mt-page-meta-tabs li.active, .mt-page-meta-tabs li:hover {
+    background: #fff;
+}
+
+.mt-page-meta-tabs li .fa{
+    padding-right:  6px;
+}
+
+.pg-metabox {
+    width: 78%;
+    float: right;
+    margin-top: 10px;
+    margin-right: 8px;
+}
+
+.pg-metabox-inside{
+    display: none;
+}
+
+.pg-metabox-inside .meta-row {
+    background: #fcfcfc none repeat scroll 0 0;
+    border: 2px solid #f1f1f1;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+#pg-metabox-info > h3 {
+    font-weight: bolder;
+    padding: 0;
+}
+
+#pg-metabox-info > ul {
+    list-style: outside none circle;
+    margin-left: 40px;
+}
+
+.meta-title {
+    border-bottom: 1px solid #e1e1e1;
+    padding: 10px;
+    font-weight: bold;
+}
+
+input.upload {
+    width: 80%;
+}
+
+.meta-options {
+    padding: 10px;
+}
+
+.opz_img_upload {
+    border: 1px solid #c0c0c0;
+    border-radius: 6px;
+    cursor: pointer;
+    width: 84px;
+}
+
+.opz_img_upload:hover{
+    background: #fff;
+}
+
+.opaze_bg_image_preview {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.remove-image .fa-times-circle{
+    color: #717171;
+    cursor: pointer;
+}
+
+/**
+ * image selected by radio
+ */
+ 
+#faceblog-img-container .faceblog-radio-img-img,
+#pg-metabox-sidebars .faceblog-radio-img-img {
+    border: 3px solid #DEDEDE;
+    margin: 0 5px 5px 0;
+    cursor: pointer;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+#faceblog-img-container .faceblog-radio-img-selected,
+#pg-metabox-sidebars .faceblog-radio-img-selected {
+    border: 3px solid #AAA;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+input[type=checkbox]:before {
+    content: '';
+    margin: -3px 0 0 -4px;
+}
+
+.single-sidebar-layout li {
+  margin-right: 10px;
+  display: inline-block;
+}

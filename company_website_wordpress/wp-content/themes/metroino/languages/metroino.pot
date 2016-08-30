@@ -1,0 +1,381 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metroino\n"
+"POT-Creation-Date: 2015-06-22 18:43+0330\n"
+"PO-Revision-Date: 2015-06-22 18:45+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "Oops, This Page Could Not Be Found!"
+msgstr ""
+
+#: 404.php:16
+msgid "Can't find what you need? Take a moment and do a search below!"
+msgstr ""
+
+#: comments.php:5
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:12
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:12
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:12 home.php:40 index.php:40 page.php:40 search.php:40
+#: single.php:40
+msgid "Comments"
+msgstr ""
+
+#: comments.php:27
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:38
+msgid "Comments Disabled."
+msgstr ""
+
+#: comments.php:52
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:53
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr ""
+
+#: comments.php:54
+msgid "Cancel Comment"
+msgstr ""
+
+#: comments.php:55
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:65
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: footer.php:9
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:9
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:11
+msgid "http://theme77.com/metroino-demo/"
+msgstr ""
+
+#: footer.php:11
+#, php-format
+msgid "metroino Theme by %s"
+msgstr ""
+
+#: front-page.php:55 page-homepage.php:53
+msgid "Your Content Here"
+msgstr ""
+
+#: front-page.php:55 page-homepage.php:53
+msgid "Go To Appearance -> Customize and Select a Page To Display Here."
+msgstr ""
+
+#: functions/customizer.php:17
+msgid "Move To Right - Move From Left"
+msgstr ""
+
+#: functions/customizer.php:18
+msgid "Move To Bottom - Move From Top"
+msgstr ""
+
+#: functions/customizer.php:19
+msgid "Rotate Fold Right - Move From Left"
+msgstr ""
+
+#: functions/customizer.php:20
+msgid "Rotate Cube Left Out - Rotate Cube Left In"
+msgstr ""
+
+#: functions/customizer.php:32
+msgid "Homepage Tiles Options"
+msgstr ""
+
+#: functions/customizer.php:33
+msgid ""
+"To Have All Metroino Theme Features Upgrade to metroino Pro: <a href="
+"\"http://theme77.com/metroino-demo/\" target=\"_blank\" class=\"get-pro"
+"\">Metroino Pro Demo</a>"
+msgstr ""
+
+#: functions/customizer.php:41
+msgid "Tile Options 1"
+msgstr ""
+
+#: functions/customizer.php:55 functions/customizer.php:193
+#: functions/customizer.php:332 functions/customizer.php:471
+msgid "Enable This Tile"
+msgstr ""
+
+#: functions/customizer.php:62
+msgid "Portfolio"
+msgstr ""
+
+#: functions/customizer.php:70 functions/customizer.php:208
+#: functions/customizer.php:347 functions/customizer.php:486
+msgid "Tile Name"
+msgstr ""
+
+#: functions/customizer.php:84 functions/customizer.php:222
+#: functions/customizer.php:361 functions/customizer.php:500
+msgid "Tile Icon"
+msgstr ""
+
+#: functions/customizer.php:97 functions/customizer.php:235
+#: functions/customizer.php:374 functions/customizer.php:513
+msgid "Tile Color"
+msgstr ""
+
+#: functions/customizer.php:112 functions/customizer.php:250
+#: functions/customizer.php:389 functions/customizer.php:528
+msgid "Tile Custom CSS Style"
+msgstr ""
+
+#: functions/customizer.php:125 functions/customizer.php:263
+#: functions/customizer.php:402 functions/customizer.php:541
+msgid "Select Page"
+msgstr ""
+
+#: functions/customizer.php:140 functions/customizer.php:278
+#: functions/customizer.php:417 functions/customizer.php:556
+msgid "Select Page Transition"
+msgstr ""
+
+#: functions/customizer.php:141 functions/customizer.php:279
+#: functions/customizer.php:418 functions/customizer.php:557
+msgid ""
+"Get 40+ Page Transitions: <a href=\"http://theme77.com/metroino-demo/\" "
+"target=\"_blank\" class=\"get-pro\">Metroino Pro</a>"
+msgstr ""
+
+#: functions/customizer.php:156 functions/customizer.php:294
+#: functions/customizer.php:433 functions/customizer.php:572
+msgid "Page Background Image"
+msgstr ""
+
+#: functions/customizer.php:170 functions/customizer.php:308
+#: functions/customizer.php:447 functions/customizer.php:586
+msgid "Page Background Color"
+msgstr ""
+
+#: functions/customizer.php:179
+msgid "Tile Options 2"
+msgstr ""
+
+#: functions/customizer.php:200
+msgid "About"
+msgstr ""
+
+#: functions/customizer.php:318
+msgid "Tile Options 3"
+msgstr ""
+
+#: functions/customizer.php:339
+msgid "Team"
+msgstr ""
+
+#: functions/customizer.php:457
+msgid "Tile Options 4"
+msgstr ""
+
+#: functions/customizer.php:478
+msgid "Blog"
+msgstr ""
+
+#: functions/customizer.php:596
+msgid "More Tiles"
+msgstr ""
+
+#: functions/customizer.php:610
+msgid "Need More Tiles"
+msgstr ""
+
+#: functions/customizer.php:611
+msgid ""
+"Upgrade to Metroino Pro: <a href=\"http://theme77.com/metroino-demo/\" "
+"target=\"_blank\" class=\"get-pro\">Metroino Pro Demo</a>"
+msgstr ""
+
+#: functions/customizer.php:622
+msgid "General Options"
+msgstr ""
+
+#: functions/customizer.php:635
+msgid "Tiles Title Color"
+msgstr ""
+
+#: functions/customizer.php:649
+msgid "Menu Font Color"
+msgstr ""
+
+#: functions/customizer.php:663
+msgid "Menu Background Color"
+msgstr ""
+
+#: functions/customizer.php:677
+msgid "Logo"
+msgstr ""
+
+#: functions/customizer.php:692
+msgid "Homepage Background Image"
+msgstr ""
+
+#: functions/customizer.php:706
+msgid "Homepage Background Color"
+msgstr ""
+
+#: functions/customizer.php:717
+msgid "Blog Options"
+msgstr ""
+
+#: functions/customizer.php:730
+msgid "Blog sidebar"
+msgstr ""
+
+#: functions/customizer.php:735
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions/customizer.php:736
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions/customizer.php:749
+msgid "Blog Background Image"
+msgstr ""
+
+#: functions/navwalker.php:196
+msgid "Add a menu"
+msgstr ""
+
+#: functions/setup.php:15
+msgid "Homepage Menu"
+msgstr ""
+
+#: functions/setup.php:16
+msgid "Blog Menu"
+msgstr ""
+
+#: functions/setup.php:30
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions/support.php:9
+msgid "Welcome to metroino"
+msgstr ""
+
+#: functions/support.php:9
+msgid "Theme support"
+msgstr ""
+
+#: functions/support.php:19
+#, php-format
+msgid "Welcome to %1s %2s"
+msgstr ""
+
+#: functions/support.php:24
+msgid "Documentation"
+msgstr ""
+
+#: functions/support.php:25
+msgid "Theme Customizer"
+msgstr ""
+
+#: functions/support.php:26
+msgid "Rate this theme"
+msgstr ""
+
+#: functions/support.php:34
+msgid "Upgrade to Metroino Pro"
+msgstr ""
+
+#: functions/support.php:35
+msgid ""
+"Need more features and options? Check out the Premium Version of this theme "
+"which comes with additional features and advanced Customize Options for your "
+"website."
+msgstr ""
+
+#: functions/support.php:37
+msgid "Metroino Pro Demo"
+msgstr ""
+
+#: functions/utils.php:21
+#, php-format
+msgid "Posted %1$s at %2$s"
+msgstr ""
+
+#: functions/utils.php:21
+msgid " - Edit"
+msgstr ""
+
+#: functions/utils.php:21
+msgid "Reply"
+msgstr ""
+
+#: functions/utils.php:26
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: header.php:26
+msgid "Home"
+msgstr ""
+
+#: home.php:37 index.php:37 page.php:37 search.php:37 single.php:37
+msgid "By"
+msgstr ""
+
+#: home.php:40 index.php:40 page.php:40 search.php:40 single.php:40
+msgid "0 Comments"
+msgstr ""
+
+#: home.php:40 index.php:40 page.php:40 search.php:40 single.php:40
+msgid "1 Comment"
+msgstr ""
+
+#: home.php:42 index.php:42 search.php:42
+msgid "Read More"
+msgstr ""
+
+#: search.php:49
+msgid "Oops, Nothing Found!"
+msgstr ""
+
+#: search.php:51
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:5
+msgid "Search ..."
+msgstr ""

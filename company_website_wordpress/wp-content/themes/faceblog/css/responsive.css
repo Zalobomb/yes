@@ -1,0 +1,128 @@
+/* Large desktop */
+@media (max-width: 1200px) {
+.mt-container {
+    margin: 0 1%;
+    width: 98%;
+}   
+.header-banner-wrapper .post-title {
+  font-size: 20px;
+}
+.header-banner-wrapper .banner-right-wrapper .post-title {
+  font-size: 14px;
+}
+.header-banner-wrapper .cat-links a {
+  font-size: 12px
+}
+}
+ 
+/* Portrait tablet to landscape and desktop */
+@media (max-width: 979px) {
+.banner-left-wrapper,
+.banner-right-wrapper {
+  width: 100%;
+  float: none;
+}   
+}
+ 
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+ .single-post-image::before, .single-post-image::after {
+  display: none;
+}
+.single-post-image {
+  padding: 8px;
+}
+
+#primary,
+#secondary {
+  float: none;
+  width: 100%;
+}
+.forkit,.forkit-curtain {
+  display: none;
+}
+.about-content-wrapper {
+  width: 100%;
+}
+.mt-footer-widget,
+.footer-widgets-wrapper .column3 .mt-footer-widget,
+.footer-widgets-wrapper .column2 .mt-footer-widget,
+.footer-widgets-wrapper .column1 .mt-footer-widget {
+  width: 100%;
+  float: none;
+  margin-bottom: 40px;
+}
+#comments {
+  margin-bottom: 30px;
+}
+.nav-links .nav-previous, .nav-links .nav-next {
+  float: none;
+  width: 100%;
+}
+.navigation .nav-links a {
+  width: 100%;
+  text-align: center;
+}
+.header-inner-banner-wrapper {
+  min-height: 300px;
+} 
+}
+
+/* Landscape phones and down */
+@media (max-width: 600px) {
+.banner-right-wrapper .banner-post-wrapper {
+  float: none;
+  width: 100%;
+}
+
+.post-content-wrapper {
+  float: none;
+  width: 100%;
+  text-align: center;
+}
+
+.post-meta-wrapper {
+  float: none;
+  text-align: center;
+  width: 100%;
+  margin: 40px 0 0;
+}
+.header-banner-wrapper .post-title {
+  font-size: 14px;
+}
+.header-banner-wrapper .post-info-wrapper .posted-on, 
+.header-banner-wrapper .post-info-wrapper .posted-on a, 
+.header-banner-wrapper .post-info-wrapper .comments-link a, 
+.header-banner-wrapper .post-info-wrapper .byline a {
+  font-size: 9px;
+}
+.header-banner-wrapper .cat-links a,.header-banner-wrapper .banner-right-wrapper .cat-links a {
+  font-size: 9px;
+  padding: 3px 10px;
+}
+.slide-toggle {
+  font-size: 16px;
+  height: 40px;
+  left: 10px;
+  line-height: 37px;
+  top: 20px;
+  width: 40px;
+}
+}
+ 
+/* Landscape phones and down */
+@media (max-width: 480px) {
+.post-content-wrapper .entry-title {
+  font-size: 20px;
+  line-height: 40px;
+}
+.post-meta-content-wrapper {
+  margin-top: 30px;
+}
+.single-post-content {
+  margin: 0px 0 30px;
+}
+.side-menu-wrapper{
+    width: 320px;
+}    
+}

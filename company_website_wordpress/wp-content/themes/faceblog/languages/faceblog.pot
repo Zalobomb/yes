@@ -1,0 +1,495 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2015-09-16 19:02:07+00:00\n"
+"POT-Revision-Date: Mon Jun 20 2016 07:13:52 GMT+0500 (Pakistan Standard "
+"Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../404.php:17
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:40 ../comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:43 ../comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:44 ../comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: ../footer.php:20
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: ../footer.php:20
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: ../footer.php:24
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: ../footer.php:40
+msgid "drag for contact"
+msgstr ""
+
+#: ../footer.php:40
+msgid "Drag down"
+msgstr ""
+
+#: ../functions.php:54
+msgid "Primary"
+msgstr ""
+
+#: ../header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: ../header.php:69 ../inc/admin/assets/panels/header-panel.php:62
+msgid "Welcome To Faceblog"
+msgstr ""
+
+#: ../header.php:73
+msgid "Primary Menu"
+msgstr ""
+
+#: ../search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../inc/faceblog-functions.php:84
+msgid "By : "
+msgstr ""
+
+#: ../inc/faceblog-functions.php:104 ../inc/template-tags.php:42
+msgid "Leave a comment"
+msgstr ""
+
+#: ../inc/faceblog-functions.php:104
+msgid "1 Comment"
+msgstr ""
+
+#: ../inc/faceblog-functions.php:104
+#, php-format
+msgid "% Comments"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: ../inc/faceblog-functions.php:124 ../inc/faceblog-functions.php:130
+msgid ", "
+msgstr ""
+
+#: ../inc/faceblog-functions.php:126
+#, php-format
+msgid "Category: %1$s"
+msgstr ""
+
+#: ../inc/faceblog-functions.php:132
+#, php-format
+msgid "Tagged: %1$s"
+msgstr ""
+
+#: ../inc/faceblog-widgets.php:15
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../inc/faceblog-widgets.php:25
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../inc/faceblog-widgets.php:35
+msgid "Sidebar for Menu"
+msgstr ""
+
+#: ../inc/faceblog-widgets.php:37
+msgid "Add widget to display in primary menu section"
+msgstr ""
+
+#: ../inc/faceblog-widgets.php:45
+msgid "Footer One"
+msgstr ""
+
+#: ../inc/faceblog-widgets.php:55
+msgid "Footer Two"
+msgstr ""
+
+#: ../inc/faceblog-widgets.php:65
+msgid "Footer Three"
+msgstr ""
+
+#: ../inc/faceblog-widgets.php:75
+msgid "Footer Four"
+msgstr ""
+
+#: ../inc/faceblog-widgets.php:85
+msgid "Contact Area"
+msgstr ""
+
+#: ../inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: ../inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#: ../inc/template-tags.php:42
+msgid "Comment (1)"
+msgstr ""
+
+#: ../inc/template-tags.php:42
+msgid "Comments (%)"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: ../inc/template-tags.php:74 ../template-parts/content-page.php:33
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: ../inc/admin/assets/faceblog-customize-controls.php:22
+msgid "&mdash; Select Category &mdash;"
+msgstr ""
+
+#: ../inc/admin/assets/faceblog-sanitize.php:30 ../inc/admin/assets/panels/footer-
+#: panel.php:53
+msgid "Column One"
+msgstr ""
+
+#: ../inc/admin/assets/faceblog-sanitize.php:31 ../inc/admin/assets/panels/footer-
+#: panel.php:54
+msgid "Column Two"
+msgstr ""
+
+#: ../inc/admin/assets/faceblog-sanitize.php:32 ../inc/admin/assets/panels/footer-
+#: panel.php:55
+msgid "Column Three"
+msgstr ""
+
+#: ../inc/admin/assets/faceblog-sanitize.php:33 ../inc/admin/assets/panels/footer-
+#: panel.php:56
+msgid "Column Four"
+msgstr ""
+
+#: ../inc/admin/assets/faceblog-sanitize.php:45 ../inc/admin/assets/panels/header-
+#: panel.php:108
+msgid "Category Posts"
+msgstr ""
+
+#: ../inc/admin/assets/faceblog-sanitize.php:46 ../inc/admin/assets/panels/header-
+#: panel.php:109
+msgid "Single Banner"
+msgstr ""
+
+#. $id
+#: ../inc/admin/assets/metaboxes/faceblog-page-sidebar.php:15
+msgid "Page Options"
+msgstr ""
+
+#. $id
+#: ../inc/admin/assets/metaboxes/faceblog-page-sidebar.php:24
+msgid "Post Options"
+msgstr ""
+
+#: ../inc/admin/assets/metaboxes/faceblog-page-sidebar.php:41
+msgid "Right sidebar"
+msgstr ""
+
+#: ../inc/admin/assets/metaboxes/faceblog-page-sidebar.php:46
+msgid "Left sidebar"
+msgstr ""
+
+#: ../inc/admin/assets/metaboxes/faceblog-page-sidebar.php:51
+msgid "No sidebar"
+msgstr ""
+
+#: ../inc/admin/assets/metaboxes/faceblog-page-sidebar.php:66
+msgid "Information"
+msgstr ""
+
+#: ../inc/admin/assets/metaboxes/faceblog-page-sidebar.php:67
+msgid "Sidebars"
+msgstr ""
+
+#: ../inc/admin/assets/metaboxes/faceblog-page-sidebar.php:72
+msgid "About Metabox Options"
+msgstr ""
+
+#: ../inc/admin/assets/metaboxes/faceblog-page-sidebar.php:75
+msgid "Sidebars is globally available to every page you create."
+msgstr ""
+
+#: ../inc/admin/assets/metaboxes/faceblog-page-sidebar.php:82
+msgid "Available Sidebars"
+msgstr ""
+
+#: ../inc/admin/assets/metaboxes/faceblog-page-sidebar.php:83
+msgid ""
+"Select available sidebar which replaced sidebar layout from customizer "
+"settings."
+msgstr ""
+
+#: ../inc/admin/assets/panels/design-panel.php:24
+msgid "Design Settings"
+msgstr ""
+
+#: ../inc/admin/assets/panels/design-panel.php:42
+msgid "Theme color"
+msgstr ""
+
+#: ../inc/admin/assets/panels/design-panel.php:55
+msgid "Archive Section"
+msgstr ""
+
+#: ../inc/admin/assets/panels/design-panel.php:75
+msgid "Available layouts"
+msgstr ""
+
+#: ../inc/admin/assets/panels/design-panel.php:76
+msgid "Select layout for whole site archives, categories, search page etc."
+msgstr ""
+
+#: ../inc/admin/assets/panels/footer-panel.php:20
+msgid "Footer Settings"
+msgstr ""
+
+#: ../inc/admin/assets/panels/footer-panel.php:30
+msgid "Footer Widget Section"
+msgstr ""
+
+#: ../inc/admin/assets/panels/footer-panel.php:49
+msgid "Choose Widget Option"
+msgstr ""
+
+#: ../inc/admin/assets/panels/footer-panel.php:50
+msgid "Choose option to display number of widget in footer area."
+msgstr ""
+
+#: ../inc/admin/assets/panels/frontpage-panel.php:21
+msgid "Front Page Settings"
+msgstr ""
+
+#: ../inc/admin/assets/panels/frontpage-panel.php:31
+msgid "About Faceblog Section"
+msgstr ""
+
+#: ../inc/admin/assets/panels/frontpage-panel.php:41
+msgid ""
+"FaceBlog is a Clean bogging theme with beautiful and elegent design which "
+"helps you to share your views and ideas all over the world."
+msgstr ""
+
+#: ../inc/admin/assets/panels/frontpage-panel.php:51
+msgid "About Us Content"
+msgstr ""
+
+#: ../inc/admin/assets/panels/frontpage-panel.php:62
+msgid "MysteryThemes"
+msgstr ""
+
+#: ../inc/admin/assets/panels/frontpage-panel.php:72
+msgid "About Us link text"
+msgstr ""
+
+#: ../inc/admin/assets/panels/frontpage-panel.php:82
+msgid "http://mysterythemes.com/"
+msgstr ""
+
+#: ../inc/admin/assets/panels/frontpage-panel.php:93
+msgid "About Link url"
+msgstr ""
+
+#: ../inc/admin/assets/panels/general-panel.php:28
+msgid "General Settings"
+msgstr ""
+
+#: ../inc/admin/assets/panels/header-panel.php:20
+msgid "Header Settings"
+msgstr ""
+
+#: ../inc/admin/assets/panels/header-panel.php:31
+msgid "Menu Section"
+msgstr ""
+
+#: ../inc/admin/assets/panels/header-panel.php:50
+msgid "Menu Featured Image"
+msgstr ""
+
+#: ../inc/admin/assets/panels/header-panel.php:72
+msgid "Menu Featured Text"
+msgstr ""
+
+#: ../inc/admin/assets/panels/header-panel.php:85
+msgid "Frontpage Banner Section"
+msgstr ""
+
+#: ../inc/admin/assets/panels/header-panel.php:104
+msgid "Banner Layout"
+msgstr ""
+
+#: ../inc/admin/assets/panels/header-panel.php:105
+msgid "Choose layout for header banner"
+msgstr ""
+
+#: ../inc/admin/assets/panels/header-panel.php:128
+msgid "Select Category"
+msgstr ""
+
+#: ../inc/admin/assets/panels/header-panel.php:129
+msgid "Select category for header banner section posts."
+msgstr ""
+
+#: ../inc/admin/assets/panels/header-panel.php:150 ..
+#: /inc/admin/assets/panels/header-panel.php:205
+msgid "Banner Image"
+msgstr ""
+
+#: ../inc/admin/assets/panels/header-panel.php:151
+msgid "Added banner image for Frontpage header section."
+msgstr ""
+
+#: ../inc/admin/assets/panels/header-panel.php:166
+msgid "Innerpage Banner Section"
+msgstr ""
+
+#: ../inc/admin/assets/panels/header-panel.php:185
+msgid "Banner Option"
+msgstr ""
+
+#: ../inc/admin/assets/panels/header-panel.php:186
+msgid "Checked to disable header banner for innerpages."
+msgstr ""
+
+#: ../inc/admin/assets/panels/header-panel.php:206
+msgid "Added banner image for Innerpages header section."
+msgstr ""
+
+#: ../inc/widgets/faceblog-latest-posts.php:21
+msgid "A widget that shows latest posts"
+msgstr ""
+
+#: ../inc/widgets/faceblog-latest-posts.php:34
+msgid "Title"
+msgstr ""
+
+#: ../inc/widgets/faceblog-latest-posts.php:39
+msgid "Number of Posts"
+msgstr ""
+
+#: ../inc/widgets/faceblog-widget-fields.php:139
+msgid "No file chosen"
+msgstr ""
+
+#: ../inc/widgets/faceblog-widget-fields.php:142
+msgid "Upload"
+msgstr ""
+
+#: ../inc/widgets/faceblog-widget-fields.php:144 ../inc/widgets/faceblog-widget-
+#: fields.php:153
+msgid "Remove"
+msgstr ""
+
+#: ../inc/widgets/faceblog-widget-fields.php:147
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: ../inc/widgets/faceblog-widget-fields.php:169
+msgid "View File"
+msgstr ""
+
+#: ../template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: ../template-parts/content-none.php:21
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../template-parts/content-page.php:22 ../template-parts/content-single.php:45 .
+#: ./template-parts/content.php:47
+msgid "Pages:"
+msgstr ""
+
+#: ../template-parts/content.php:35
+msgid "Read More"
+msgstr ""
+
+#. Name of the theme
+msgid "FaceBlog"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://mysterythemes.com/wp-themes/faceblog/"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"FaceBlog is a clean &amp; well designed blogging theme focuses on the most "
+"important thing from a blog, the content specially target for bloggers, "
+"photographers, journalists, and anyone who like clean, elegant &amp; "
+"responsive design. Great customer support via email, support forum. View "
+"full Demo here: http://demo.mysterythemes.com/faceblog/ | Support: http:"
+"//mysterythemes.com/support/forum/themes/free-themes/"
+msgstr ""
+
+#. Author of the theme
+msgid "Mystery Themes"
+msgstr ""
